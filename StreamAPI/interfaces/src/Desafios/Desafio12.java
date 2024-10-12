@@ -13,5 +13,5 @@ public class Desafio12 {
             .reduce(1, (a, b) -> a * b);
 
         System.out.println("O produto dos números é: " + produto);
-}
+    }
 }
