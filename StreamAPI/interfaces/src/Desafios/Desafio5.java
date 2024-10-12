@@ -15,6 +15,6 @@ public class Desafio5 {
             .average()
             .orElse(0);
 
-            System.out.println("A soma dos números maiores que 5 é: " + media);
+            System.out.println("A média dos números maiores que 5 é: " + media);
     }
 }
