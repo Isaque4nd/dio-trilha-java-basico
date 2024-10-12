@@ -1,4 +1,4 @@
-package StreamAPI.interfaces.src.Desafios;
+package Desafios;
 
 import java.util.Arrays;
 import java.util.List;

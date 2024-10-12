@@ -1,4 +1,4 @@
-package StreamAPI.interfaces.src.BinaryOperator;
+package BinaryOperator;
 
 import java.util.Arrays;
 import java.util.List;

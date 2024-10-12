@@ -1,4 +1,4 @@
-package StreamAPI.interfaces.src.Supplier;
+package Supplier;
 
 import java.util.List;
 import java.util.stream.Collectors;

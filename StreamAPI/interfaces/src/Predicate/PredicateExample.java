@@ -1,4 +1,4 @@
-package StreamAPI.interfaces.src.Predicate;
+package Predicate;
 
 import java.util.Arrays;
 import java.util.List;
